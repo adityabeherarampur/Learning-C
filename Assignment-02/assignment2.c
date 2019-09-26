@@ -8,6 +8,6 @@ int main(void)
 
   printf("%d is an integer!\n", integer);
   printf("%f is a float!\n", floatvar);
-  printf("%s is a char!\n", string);
+  printf("%s is a char array!\n", string);
 
 }
